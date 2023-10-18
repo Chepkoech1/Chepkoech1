@@ -16,8 +16,6 @@ I'm Sandra, a passionate graduate in software development with a love for coding
 
 - 😄 Pronouns: She/Her
 
-- ⚡ Fun fact: I'm a huge fan of sci-fi literature and can talk about my favorite books for hours. Also, I make an incredible chocolate soufflé!
-
 Looking forward to connecting with fellow developers and tech enthusiasts. Let's code and innovate together!
 
 
