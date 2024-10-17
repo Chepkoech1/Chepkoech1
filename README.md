@@ -2,13 +2,13 @@
 
 I'm Sandra, a passionate graduate in software development with a love for coding and problem-solving.
 
-- 🔭 I’m currently working on: Building a robust web application for a local non-profit organization to streamline their volunteer management.
+- 🔭 I’m currently working on Crowdsourced Storytelling – a platform where users contribute to a collective story by adding paragraphs or chapters.
 
-- 🌱 I’m currently learning: Exploring the world of machine learning and diving deeper into frontend development to stay up-to-date with the latest technologies.
+- 🌱 I’m currently learning Java and Web Development.
 
-- 👯 I’m looking to collaborate on: Open-source projects, hackathons, or any exciting software development initiatives. Let's join forces and create something amazing!
+- 👯 I’m looking to collaborate on Open-source projects, hackathons, or any exciting software development initiatives. Let's join forces and create something amazing!
 
-- 🤔 I’m looking for help with: Enhancing my skills in data science and cloud computing. If you have experience in these areas, I'd greatly appreciate your guidance.
+- 🤔 I’m looking for help with enhancing my skills in web development. If you have experience in these area, I'd greatly appreciate your guidance.
 
 - 💬 Ask me about: Anything related to software development, coding, or technology trends. I'm always eager to discuss and share knowledge.
 
